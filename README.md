@@ -11,8 +11,6 @@ Performed a comparison of two genetic-algorithm crossover operators, Partially M
 | Navratan | 2024UCM2321 |
 | Jhanvi | 2024UCM2848 |
 
-> **Limitation.** Locations are real public places, but distances are Haversine (straight-line) distances, not road-network distances or driving times. The exact optimum of **33.1656 km** applies only to this distance matrix and must not be read as real driving mileage.
-
 ## Repository Structure
 
 ```
