@@ -1,6 +1,15 @@
 # PMX vs IGX Crossover for the Traveling Salesman Problem
 
-Supplementary material for a comparison of two genetic-algorithm crossover operators, Partially Mapped Crossover (PMX) and Distance-Guided Crossover (IGX), on a 17-node Chandigarh–Mohali TSP case study. The GA results are checked against an exact Held-Karp optimum.
+Performed a comparison of two genetic-algorithm crossover operators, Partially Mapped Crossover (PMX) and Distance-Guided Crossover (IGX), on a 17-node Chandigarh–Mohali TSP case study. The GA results are checked against an exact Held-Karp optimum.
+
+### Members in the Project
+
+| Name | Roll No. |
+|---|---|
+| Aakash Gupta | 2024UCM2848 |
+| Himanshi | 2024UCM2331 |
+| Navratan | 2024UCM2321 |
+| Jhanvi | 2024UCM2848 |
 
 > **Limitation.** Locations are real public places, but distances are Haversine (straight-line) distances, not road-network distances or driving times. The exact optimum of **33.1656 km** applies only to this distance matrix and must not be read as real driving mileage.
 
